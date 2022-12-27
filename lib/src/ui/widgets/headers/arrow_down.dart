@@ -25,8 +25,8 @@ class _ArrowDownHeaderPainter extends CustomPainter {
     double _width = size.width;
     Path path = Path()
       ..lineTo(0, _height * 0.2)
-      ..lineTo(_height * 0.3, _width * 0.5)
-      ..lineTo(_height, _width * 0.3)
+      ..lineTo(_width * 0.5, _height * 0.3)
+      ..lineTo(_width, _height * 0.2)
       ..lineTo(_width, 0);
 
     canvas.drawPath(path, paint);
