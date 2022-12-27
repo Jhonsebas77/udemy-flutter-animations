@@ -2,7 +2,8 @@ library com.tyba.disenos_app.widgets;
 
 import 'package:flutter/material.dart';
 
-part 'border_rounded_headers.dart';
-part 'diagonal_headers.dart';
-part 'square_headers.dart';
-part 'triangle_headers.dart';
+part 'headers/arrow_down.dart';
+part 'headers/border_rounded.dart';
+part 'headers/diagonal.dart';
+part 'headers/square.dart';
+part 'headers/triangle.dart';
