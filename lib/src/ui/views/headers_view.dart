@@ -5,7 +5,8 @@ class HeadersView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => const Scaffold(
-        body: SquareWithBorderRoundedHeader(),
+        body: DiagonalHeader(),
+        // body: SquareWithBorderRoundedHeader(),
         // body: SquareHeader(),
       );
 }
