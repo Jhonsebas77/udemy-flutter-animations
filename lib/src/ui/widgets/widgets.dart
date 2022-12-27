@@ -8,3 +8,4 @@ part 'headers/curve.dart';
 part 'headers/diagonal.dart';
 part 'headers/square.dart';
 part 'headers/triangle.dart';
+part 'headers/wave.dart';
