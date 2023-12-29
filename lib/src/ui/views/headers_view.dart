@@ -5,7 +5,8 @@ class HeadersView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => const Scaffold(
-        body: WaveHeader(),
+        body: AnimationsView(),
+        // body: WaveHeader(),
         // body: CurveHeader(),
         // body: ArrowDownHeader(),
         // body: TriangleHeader(),

@@ -4,4 +4,5 @@ import 'package:flutter/material.dart';
 
 import '../widgets/widgets.dart';
 
+part 'animations_view.dart';
 part 'headers_view.dart';

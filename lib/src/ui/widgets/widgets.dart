@@ -9,3 +9,4 @@ part 'headers/diagonal.dart';
 part 'headers/square.dart';
 part 'headers/triangle.dart';
 part 'headers/wave.dart';
+part 'square.dart';
